@@ -224,4 +224,8 @@ Suggested Placement
 
 README.md → This document
 
+This work is licensed under the MIT License.
+Concepts and structures may be freely referenced and reused,
+with attribution appreciated
+
 docs/ → Each core concept split into independent files (optional)
