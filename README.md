@@ -224,6 +224,7 @@ Suggested Placement
 
 README.md → This document
 
+Copyright (c) 2026 T/MORIO
 This work is licensed under the MIT License.
 Concepts and structures may be freely referenced and reused,
 with attribution appreciated
